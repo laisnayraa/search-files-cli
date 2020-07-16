@@ -1,0 +1,26 @@
+{
+  "name": "search-files-cli",
+  "version": "1.0.0",
+  "description": "Using Node.js | Criando Ferramenta de Busca CLI | Digital Innovation One",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisnayraa/search-files-cli.git"
+  },
+  "keywords": [],
+  "author": "Laís Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laisnayraa/search-files-cli/issues"
+  },
+  "homepage": "https://github.com/laisnayraa/search-files-cli#readme"
+}
